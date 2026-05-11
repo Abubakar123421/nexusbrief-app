@@ -1,0 +1,14 @@
+# Compiled output
+out/
+
+# IDE configs
+.idea/
+.vscode/
+
+# Native DLLs
+lib/*.dll
+
+# Submission/report files
+*.zip
+*.pdf
+Report Data/
